@@ -4,7 +4,7 @@ Welcome to my portfolio site!!
 
 ### About Me
 
-![David Byberg](images/profile-picture.jpg)
+![David Byberg](images/profilepicture.jpg)
 
 I am a student at Durham College in the Contemporary Web Design program.
 
