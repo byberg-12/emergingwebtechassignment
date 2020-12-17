@@ -10,7 +10,7 @@ I am a student at Durham College in the Contemporary Web Design program.
 
 ### Contact Information
 
-Email: [david.byberg@dcmail.ca}(mailto:david.byberg@dcmail.ca)
+Email: [david.byberg@dcmail.ca](mailto:david.byberg@dcmail.ca)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
