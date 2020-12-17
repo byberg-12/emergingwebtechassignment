@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+## Hello, my name is David
 
-You can use the [editor on GitHub](https://github.com/byberg-12/emergingwebtechassignment/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio site!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+![David Byberg] (images/profile-picture.jpg)
 
-### Markdown
+I am a student at Durham College in the Contemporary Web Design program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Information
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Email: [david.byberg@dcmail.ca}(mailto:david.byberg@dcmail.ca)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
